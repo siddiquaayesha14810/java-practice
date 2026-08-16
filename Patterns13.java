@@ -1,6 +1,6 @@
 
 //PALINDROME NUMBERS
-import java.utiil.*;
+import java.util.*;
 
 public class Patterns13 {
     public static void main(String args[]) {
